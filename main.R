@@ -8,6 +8,7 @@ library(lubridate);
 library(mapdata);
 library(maps);
 library(plotly)
+library(stringr)
 
 # READ DATA
 
